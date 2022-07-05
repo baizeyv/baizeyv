@@ -5,7 +5,7 @@ There are some information about me.
 
 I'm a novice.
 
-I study in HICC, China.
+I study in HBU, China.
 
 ---
 Something Will Be Appended.
