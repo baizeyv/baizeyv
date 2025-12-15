@@ -3,9 +3,7 @@
 #### Hi, I'm baizeyv
 There are some information about me.
 
-I'm a novice.
-
-I study in HBU, China.
+I work at Company `Doodle Mobile Ltd.` in Beijing, China.
 
 ---
 Something Will Be Appended.
